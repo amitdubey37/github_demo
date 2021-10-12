@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.expandable-header {
+  background: #5c5c5c;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 5px;
+  padding-top: 5px;
+}
+
+.nested {
+  margin-left: 50px;
+  width: 100%;
+}
+.search-bar {
+  margin-bottom: 64px;
+}
